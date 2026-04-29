@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Learn C Basics",
+        "description": "Practice variables, loops, and functions in C",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-04-10"
+    },
+    {
+        "id": 2,
+        "title": "Build Todo App",
+        "description": "Create a simple todo app using React",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-05-05"
+    },
+    {
+        "id": 3,
+        "title": "Study Data Structures",
+        "description": "Focus on arrays, linked lists, and stacks",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-05-15"
+    },
+    {
+        "id": 4,
+        "title": "Next.js Project Setup",
+        "description": "Initialize a Next.js project with Tailwind CSS",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-05-02"
+    },
+    {
+        "id": 5,
+        "title": "API Integration",
+        "description": "Fetch and display data from REST API",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-05-20"
+    },
+    {
+        "id": 6,
+        "title": "Debug Git Issue",
+        "description": "Fix push error to GitHub repository",
+        "status": "completed",
+        "priority": "low",
+        "dueDate": "2026-04-25"
+    },
+    {
+        "id": 7,
+        "title": "UI Improvement",
+        "description": "Enhance card layout and responsiveness",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-05-08"
+    },
+    {
+        "id": 8,
+        "title": "Learn Machine Learning Basics",
+        "description": "Start with supervised vs unsupervised learning",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-06-01"
+    },
+    {
+        "id": 9,
+        "title": "Create Portfolio Website",
+        "description": "Build personal portfolio using Next.js",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2026-06-10"
+    },
+    {
+        "id": 10,
+        "title": "Deploy Project",
+        "description": "Deploy app using Vercel",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2026-06-15"
+    }
+]
